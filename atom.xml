@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://17waibao1.photosbed.lifeisgg.online</id>
     <title>岭师17外包1班的相册</title>
-    <updated>2020-05-21T02:46:06.950Z</updated>
+    <updated>2020-06-23T06:20:19.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://17waibao1.photosbed.lifeisgg.online"/>
     <link rel="self" href="https://17waibao1.photosbed.lifeisgg.online/atom.xml"/>
@@ -15,6 +15,15 @@
     <logo>https://17waibao1.photosbed.lifeisgg.online/images/avatar.png</logo>
     <icon>https://17waibao1.photosbed.lifeisgg.online/favicon.ico</icon>
     <rights>All rights reserved 2020, 岭师17外包1班的相册</rights>
+    <entry>
+        <title type="html"><![CDATA[大三下Java后端实训]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-java-hou-duan-shi-xun/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-java-hou-duan-shi-xun/">
+        </link>
+        <updated>2020-06-23T06:13:50.000Z</updated>
+        <content type="html"><![CDATA[<p>最后一次在学校实训了，因为疫情原因只有部分人选择线下来学校实训，而其余人在线上。过一个星期后在广州东软本部实训一个月后，就要去找工作了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大三上开展以预防疫情为主题的线上团日活动]]></title>
         <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-shang-yi-yu-fang-yi-qing-wei-zhu-ti-de-xian-shang-tuan-ri-huo-dong/</id>
@@ -77,12 +86,5 @@
         <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-yi-zai-tian-jing-chang-ju-bao-sheng-ri-hui-shi-fen-fa-ling-shi/">
         </link>
         <updated>2020-04-30T16:05:31.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大一田径场举办生日会]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-yi-tian-jing-chang-ju-ban-sheng-ri-hui/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-yi-tian-jing-chang-ju-ban-sheng-ri-hui/">
-        </link>
-        <updated>2020-04-30T16:05:13.000Z</updated>
     </entry>
 </feed>
