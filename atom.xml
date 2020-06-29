@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://17waibao1.photosbed.lifeisgg.online</id>
     <title>岭师17外包1班的相册</title>
-    <updated>2020-06-23T07:24:32.960Z</updated>
+    <updated>2020-06-29T02:07:21.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://17waibao1.photosbed.lifeisgg.online"/>
     <link rel="self" href="https://17waibao1.photosbed.lifeisgg.online/atom.xml"/>
@@ -15,6 +15,15 @@
     <logo>https://17waibao1.photosbed.lifeisgg.online/images/avatar.png</logo>
     <icon>https://17waibao1.photosbed.lifeisgg.online/favicon.ico</icon>
     <rights>All rights reserved 2020, 岭师17外包1班的相册</rights>
+    <entry>
+        <title type="html"><![CDATA[大三下离开学校去广州东软实训]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun/">
+        </link>
+        <updated>2020-06-29T01:57:32.000Z</updated>
+        <content type="html"><![CDATA[<p>在学校的课程正式结束，之后在东软实训一个月后就要找工作啦，不管怎样，我们依然在路上。对了，大家不要忘记迟到的毕业典礼哦，我们那时候再聚。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大三下Java后端实训]]></title>
         <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-java-hou-duan-shi-xun/</id>
@@ -79,12 +88,5 @@
         <link href="https://17waibao1.photosbed.lifeisgg.online/post/huo-guo-ju-can-ban-wei-zheng-zai-zong-jie-ben-xue-nian-de-gong-zuo/">
         </link>
         <updated>2020-04-30T16:07:41.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大一在田径场举报生日会时分发零食]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-yi-zai-tian-jing-chang-ju-bao-sheng-ri-hui-shi-fen-fa-ling-shi/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-yi-zai-tian-jing-chang-ju-bao-sheng-ri-hui-shi-fen-fa-ling-shi/">
-        </link>
-        <updated>2020-04-30T16:05:31.000Z</updated>
     </entry>
 </feed>
