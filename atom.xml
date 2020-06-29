@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://17waibao1.photosbed.lifeisgg.online</id>
     <title>岭师17外包1班的相册</title>
-    <updated>2020-06-29T02:07:21.095Z</updated>
+    <updated>2020-06-29T02:27:44.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://17waibao1.photosbed.lifeisgg.online"/>
     <link rel="self" href="https://17waibao1.photosbed.lifeisgg.online/atom.xml"/>
@@ -16,7 +16,25 @@
     <icon>https://17waibao1.photosbed.lifeisgg.online/favicon.ico</icon>
     <rights>All rights reserved 2020, 岭师17外包1班的相册</rights>
     <entry>
-        <title type="html"><![CDATA[大三下离开学校去广州东软实训]]></title>
+        <title type="html"><![CDATA[大三下离开学校去广州东软实训1]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun-1/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun-1/">
+        </link>
+        <updated>2020-06-29T02:22:43.000Z</updated>
+        <content type="html"><![CDATA[<p>每一届外包班的人都在这里出发去东软，这一次轮到我们了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大三下离开学校去广州东软实训2]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun-2/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun-2/">
+        </link>
+        <updated>2020-06-29T02:20:06.000Z</updated>
+        <content type="html"><![CDATA[<p>最后再看一眼我们生活了两年半的宿舍</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大三下离开学校去广州东软实训3]]></title>
         <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun/</id>
         <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun/">
         </link>
@@ -74,19 +92,5 @@
         <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-er-ji-ti-wai-chu-huo-dong-can-jia-te-se-bie-shu-pai-dui-ju-hui-jie-shu-hou-he-ying-liu-nian/">
         </link>
         <updated>2020-04-30T16:09:34.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火锅聚餐期间成员合照]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/huo-guo-ju-can-qi-jian-cheng-yuan-he-zhao/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/huo-guo-ju-can-qi-jian-cheng-yuan-he-zhao/">
-        </link>
-        <updated>2020-04-30T16:09:14.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火锅聚餐班委正在总结本学年的工作]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/huo-guo-ju-can-ban-wei-zheng-zai-zong-jie-ben-xue-nian-de-gong-zuo/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/huo-guo-ju-can-ban-wei-zheng-zai-zong-jie-ben-xue-nian-de-gong-zuo/">
-        </link>
-        <updated>2020-04-30T16:07:41.000Z</updated>
     </entry>
 </feed>
