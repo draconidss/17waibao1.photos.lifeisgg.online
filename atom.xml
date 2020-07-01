@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://17waibao1.photosbed.lifeisgg.online</id>
     <title>岭师17外包1班的相册</title>
-    <updated>2020-06-29T02:27:44.633Z</updated>
+    <updated>2020-07-01T16:28:02.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://17waibao1.photosbed.lifeisgg.online"/>
     <link rel="self" href="https://17waibao1.photosbed.lifeisgg.online/atom.xml"/>
@@ -15,6 +15,20 @@
     <logo>https://17waibao1.photosbed.lifeisgg.online/images/avatar.png</logo>
     <icon>https://17waibao1.photosbed.lifeisgg.online/favicon.ico</icon>
     <rights>All rights reserved 2020, 岭师17外包1班的相册</rights>
+    <entry>
+        <title type="html"><![CDATA[实训基地的夜景-1]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/shi-xun-ji-di-de-ye-jing-1/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/shi-xun-ji-di-de-ye-jing-1/">
+        </link>
+        <updated>2020-07-01T16:19:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实训基地的夜景-2]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/shi-xun-ji-di-de-ye-jing-2/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/shi-xun-ji-di-de-ye-jing-2/">
+        </link>
+        <updated>2020-07-01T16:15:53.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大三下离开学校去广州东软实训1]]></title>
         <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-chi-kai-xue-xiao-qu-guang-zhou-dong-ruan-shi-xun-1/</id>
@@ -78,19 +92,5 @@
         <link href="https://17waibao1.photosbed.lifeisgg.online/post/15-ji-wai-bao-huan-song-hui-yu-shi-xiong-shi-jie-he-ying/">
         </link>
         <updated>2020-04-30T16:10:03.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派对上大家首次尝试烹饪，像家人一样坐下来互相分享和点评菜品]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/pai-dui-shang-da-jia-shou-ci-chang-shi-peng-ren-xiang-jia-ren-yi-yang-zuo-xia-lai-hu-xiang-fen-xiang-he-dian-ping-cai-pin/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/pai-dui-shang-da-jia-shou-ci-chang-shi-peng-ren-xiang-jia-ren-yi-yang-zuo-xia-lai-hu-xiang-fen-xiang-he-dian-ping-cai-pin/">
-        </link>
-        <updated>2020-04-30T16:09:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大二集体外出活动参加特色别墅派对，聚会结束后合影留念]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-er-ji-ti-wai-chu-huo-dong-can-jia-te-se-bie-shu-pai-dui-ju-hui-jie-shu-hou-he-ying-liu-nian/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-er-ji-ti-wai-chu-huo-dong-can-jia-te-se-bie-shu-pai-dui-ju-hui-jie-shu-hou-he-ying-liu-nian/">
-        </link>
-        <updated>2020-04-30T16:09:34.000Z</updated>
     </entry>
 </feed>
