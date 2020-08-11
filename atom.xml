@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://17waibao1.photosbed.lifeisgg.online</id>
     <title>岭师17外包1班的相册</title>
-    <updated>2020-07-23T09:23:30.543Z</updated>
+    <updated>2020-08-11T13:12:51.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://17waibao1.photosbed.lifeisgg.online"/>
     <link rel="self" href="https://17waibao1.photosbed.lifeisgg.online/atom.xml"/>
@@ -15,6 +15,43 @@
     <logo>https://17waibao1.photosbed.lifeisgg.online/images/avatar.png</logo>
     <icon>https://17waibao1.photosbed.lifeisgg.online/favicon.ico</icon>
     <rights>All rights reserved 2020, 岭师17外包1班的相册</rights>
+    <entry>
+        <title type="html"><![CDATA[13级外包师兄师姐们答辩结束]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/13-ji-wai-bao-shi-xiong-shi-jie-men-da-bian-jie-shu/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/13-ji-wai-bao-shi-xiong-shi-jie-men-da-bian-jie-shu/">
+        </link>
+        <updated>2020-08-11T13:09:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14级外包师兄师姐们答辩结束]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/14-ji-wai-bao-shi-xiong-shi-jie-men-da-bian-jie-shu/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/14-ji-wai-bao-shi-xiong-shi-jie-men-da-bian-jie-shu/">
+        </link>
+        <updated>2020-08-11T13:07:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15级外包师兄师姐们答辩结束]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/15-ji-wai-bao-shi-xiong-da-bian-jie-shu/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/15-ji-wai-bao-shi-xiong-da-bian-jie-shu/">
+        </link>
+        <updated>2020-08-11T07:46:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16级外包师兄师姐们答辩结束]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/16-ji-wai-bao-shi-xiong-shi-jie-men-da-bian-jie-shu/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/16-ji-wai-bao-shi-xiong-shi-jie-men-da-bian-jie-shu/">
+        </link>
+        <updated>2020-08-11T07:43:27.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大三下最后一次实训]]></title>
+        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-zui-hou-yi-ci-shi-xun/</id>
+        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-zui-hou-yi-ci-shi-xun/">
+        </link>
+        <updated>2020-08-11T07:41:34.000Z</updated>
+        <content type="html"><![CDATA[<p>最后一次实训是在广州，也顺便实训完找工作，可是在实训期间越到后面来实训的人越少找工作的人越多，毕竟技术可以以后学但找工作对于我们来说已经比较晚了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实训基地的夜景-1]]></title>
         <id>https://17waibao1.photosbed.lifeisgg.online/post/shi-xun-ji-di-de-ye-jing-1/</id>
@@ -55,42 +92,5 @@
         <updated>2020-06-29T01:57:32.000Z</updated>
         <content type="html"><![CDATA[<p>在学校的课程正式结束，之后在东软实训一个月后就要找工作啦，不管怎样，我们依然在路上。对了，大家不要忘记迟到的毕业典礼哦，我们那时候再聚。</p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大三下Java后端实训]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-java-hou-duan-shi-xun/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-san-xia-java-hou-duan-shi-xun/">
-        </link>
-        <updated>2020-06-23T06:13:50.000Z</updated>
-        <content type="html"><![CDATA[<p>最后一次在学校实训了，因为疫情原因只有部分人选择线下来学校实训，而其余人在线上。过一个星期后在广州东软本部实训一个月后，就要去找工作了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大三上开展以预防疫情为主题的线上团日活动]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/da-san-shang-yi-yu-fang-yi-qing-wei-zhu-ti-de-xian-shang-tuan-ri-huo-dong/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/da-san-shang-yi-yu-fang-yi-qing-wei-zhu-ti-de-xian-shang-tuan-ri-huo-dong/">
-        </link>
-        <updated>2020-05-10T10:52:45.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love 17外包1班 forever]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/love-17-wai-bao-1-ban-forever/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/love-17-wai-bao-1-ban-forever/">
-        </link>
-        <updated>2020-04-30T16:11:20.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”16级外包欢送会“与师兄师姐合影]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/16-ji-wai-bao-huan-song-hui-yu-shi-xiong-shi-jie-he-ying/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/16-ji-wai-bao-huan-song-hui-yu-shi-xiong-shi-jie-he-ying/">
-        </link>
-        <updated>2020-04-30T16:10:20.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”15级外包欢送会“与师兄师姐合影]]></title>
-        <id>https://17waibao1.photosbed.lifeisgg.online/post/15-ji-wai-bao-huan-song-hui-yu-shi-xiong-shi-jie-he-ying/</id>
-        <link href="https://17waibao1.photosbed.lifeisgg.online/post/15-ji-wai-bao-huan-song-hui-yu-shi-xiong-shi-jie-he-ying/">
-        </link>
-        <updated>2020-04-30T16:10:03.000Z</updated>
     </entry>
 </feed>
